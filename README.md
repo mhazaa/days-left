@@ -1,3 +1,4 @@
+### Old project, legacy code
 # Days-Left
 http://mhazaa.studio.mcad.edu/game
 
